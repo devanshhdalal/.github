@@ -26,7 +26,7 @@ I'm a **backend developer and maker** in **St. John's, NL**. I like fast feedbac
 
 [![AEAC 2026](https://img.shields.io/badge/AEAC_2026-3rd_Place-F42E0B?style=flat-square)](https://valiantaerotech.com)
 [![Judges Award](https://img.shields.io/badge/Judges_Award-Winner-F42E0B?style=flat-square)](https://valiantaerotech.com)
-[![Valiant Aerotech](https://img.shields.io/badge/Team-Valiant_Aerotech-0a0a0a?style=flat-square&logo=drone&logoColor=white)](https://valiantaerotech.com)
+[![Valiant Aerotech](https://img.shields.io/badge/Team-Valiant_Aerotech-0a0a0a?style=flat-square&logo=apachekafka&logoColor=white)](https://valiantaerotech.com)
 
 ---
 
@@ -39,9 +39,11 @@ I'm a **backend developer and maker** in **St. John's, NL**. I like fast feedbac
 #### Valiant Aerotech
 Autonomous firefighting drone team. Flight electronics, telemetry, embedded firmware, and navigation stack.
 
-`C++` `FreeRTOS` `ROS2` `LiDAR` `Object Detection` `Raspberry Pi`
+<img src="https://cdn.simpleicons.org/cplusplus/00599C" height="18" alt="C++" />
+<img src="https://cdn.simpleicons.org/ros/22314E" height="18" alt="ROS" />
+<img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="18" alt="Raspberry Pi" />
 
-<br />
+<br /><br />
 
 [![Team site](https://img.shields.io/badge/valiantaerotech.com-F42E0B?style=for-the-badge)](https://valiantaerotech.com)
 
@@ -51,9 +53,12 @@ Autonomous firefighting drone team. Flight electronics, telemetry, embedded firm
 #### Valiant Logger
 Discord slash-command changelog with GitHub-backed persistence and a protected, searchable web portal.
 
-`Node.js` `Discord.js` `Express` `Octokit` `Redis` `OAuth2`
+<img src="https://cdn.simpleicons.org/nodedotjs/339933" height="18" alt="Node.js" />
+<img src="https://cdn.simpleicons.org/discord/5865F2" height="18" alt="Discord" />
+<img src="https://cdn.simpleicons.org/redis/DC382D" height="18" alt="Redis" />
+<img src="https://cdn.simpleicons.org/github/ffffff" height="18" alt="GitHub" />
 
-<br />
+<br /><br />
 
 [![Portfolio](https://img.shields.io/badge/See_more-devanshdalal.com-181717?style=for-the-badge)](https://www.devanshdalal.com)
 
@@ -65,14 +70,85 @@ Discord slash-command changelog with GitHub-backed persistence and a protected, 
 
 ### Projects
 
-| | Project | Summary | Stack |
-| :---: | :--- | :--- | :--- |
-| 🦯 | [**Cane Plus**](https://github.com/devanshhdalal/caneplus) | Hackathon-winning smart cane | Raspberry Pi, Python, sensors |
-| 🚁 | [**Valiant Aerotech**](https://valiantaerotech.com) | AEAC 2026 competition drone | C++, ROS2, LiDAR, ML |
-| 📝 | **Valiant Logger** | Team changelog bot + portal | Node.js, Discord.js, GitHub API |
-| 🗺️ | **CrisisMapper** | Real-time emergency triage | TypeScript, Redis, WebSockets |
-| 🌬️ | **IoT Air Purifier** | ESP32 sensor-driven retrofit | ESP32, MQTT, Home Assistant |
-| 🤖 | **Discord Bots Suite** | Moderation, logging, music | Node.js, Python, MongoDB, FFmpeg |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="24" alt="" />
+<br /><br />
+
+**<a href="https://github.com/devanshhdalal/caneplus">Cane Plus</a>**<br />
+<sub>Hackathon-winning smart cane with ultrasonic and IR sensing</sub><br /><br />
+<img src="https://cdn.simpleicons.org/python/3776AB" height="16" alt="" />
+<img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="16" alt="" />
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://cdn.simpleicons.org/ros/22314E" height="24" alt="" />
+<br /><br />
+
+**<a href="https://valiantaerotech.com">Valiant Aerotech</a>**<br />
+<sub>Autonomous firefighting drone, AEAC 2026 - 3rd place and Judges Award</sub><br /><br />
+<img src="https://cdn.simpleicons.org/cplusplus/00599C" height="16" alt="" />
+<img src="https://cdn.simpleicons.org/ros/22314E" height="16" alt="" />
+
+</td>
+</tr>
+<tr><td colspan="2"><br /></td></tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://cdn.simpleicons.org/discord/5865F2" height="24" alt="" />
+<br /><br />
+
+**Valiant Logger**<br />
+<sub>Team changelog from Discord to a protected web portal</sub><br /><br />
+<img src="https://cdn.simpleicons.org/nodedotjs/339933" height="16" alt="" />
+<img src="https://cdn.simpleicons.org/express/ffffff" height="16" alt="" />
+<img src="https://cdn.simpleicons.org/redis/DC382D" height="16" alt="" />
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://cdn.simpleicons.org/redis/DC382D" height="24" alt="" />
+<br /><br />
+
+**CrisisMapper**<br />
+<sub>Real-time emergency triage with geospatial routing</sub><br /><br />
+<img src="https://cdn.simpleicons.org/typescript/3178C6" height="16" alt="" />
+<img src="https://cdn.simpleicons.org/mongodb/47A248" height="16" alt="" />
+<img src="https://cdn.simpleicons.org/redis/DC382D" height="16" alt="" />
+
+</td>
+</tr>
+<tr><td colspan="2"><br /></td></tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://cdn.simpleicons.org/espressif/E7352C" height="24" alt="" />
+<br /><br />
+
+**IoT Air Purifier**<br />
+<sub>ESP32 retrofit with sensor-driven PWM fan control</sub><br /><br />
+<img src="https://cdn.simpleicons.org/espressif/E7352C" height="16" alt="" />
+<img src="https://cdn.simpleicons.org/homeassistant/18BCF2" height="16" alt="" />
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://cdn.simpleicons.org/discord/5865F2" height="24" alt="" />
+<br /><br />
+
+**Discord Bots Suite**<br />
+<sub>Modular moderation, logging, and music automation</sub><br /><br />
+<img src="https://cdn.simpleicons.org/nodedotjs/339933" height="16" alt="" />
+<img src="https://cdn.simpleicons.org/python/3776AB" height="16" alt="" />
+<img src="https://cdn.simpleicons.org/mongodb/47A248" height="16" alt="" />
+
+</td>
+</tr>
+</table>
 
 ---
 
