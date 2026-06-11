@@ -26,7 +26,7 @@ I'm a **backend developer and maker** in **St. John's, NL**. I like fast feedbac
 
 [![AEAC 2026](https://img.shields.io/badge/AEAC_2026-3rd_Place-F42E0B?style=flat-square)](https://valiantaerotech.com)
 [![Judges Award](https://img.shields.io/badge/Judges_Award-Winner-F42E0B?style=flat-square)](https://valiantaerotech.com)
-[![Valiant Aerotech](https://img.shields.io/badge/Team-Valiant_Aerotech-0a0a0a?style=flat-square&logo=apachekafka&logoColor=white)](https://valiantaerotech.com)
+[![Valiant Aerotech](https://img.shields.io/badge/Team-Valiant_Aerotech-0a0a0a?style=flat-square&logo=github&logoColor=white)](https://github.com/Valiant-Aerotech)
 
 ---
 
@@ -45,6 +45,7 @@ Autonomous firefighting drone team. Flight electronics, telemetry, embedded firm
 
 <br /><br />
 
+[![GitHub org](https://img.shields.io/badge/GitHub-Valiant--Aerotech-181717?style=for-the-badge&logo=github)](https://github.com/Valiant-Aerotech)
 [![Team site](https://img.shields.io/badge/valiantaerotech.com-F42E0B?style=for-the-badge)](https://valiantaerotech.com)
 
 </td>
@@ -88,10 +89,11 @@ Discord slash-command changelog with GitHub-backed persistence and a protected, 
 <img src="https://cdn.simpleicons.org/ros/22314E" height="24" alt="" />
 <br /><br />
 
-**<a href="https://valiantaerotech.com">Valiant Aerotech</a>**<br />
+**<a href="https://github.com/Valiant-Aerotech">Valiant Aerotech</a>**<br />
 <sub>Autonomous firefighting drone, AEAC 2026 - 3rd place and Judges Award</sub><br /><br />
 <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="16" alt="" />
 <img src="https://cdn.simpleicons.org/ros/22314E" height="16" alt="" />
+<img src="https://cdn.simpleicons.org/github/ffffff" height="16" alt="" />
 
 </td>
 </tr>
