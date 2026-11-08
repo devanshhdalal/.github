@@ -24,16 +24,27 @@
 
 I'm a **backend developer and maker** in **St. John's, NL**. I like fast feedback loops: hackathon prototypes, IoT retrofits, Discord bots, real-time dashboards, and embedded stacks that still work after the fiftieth wall collision.
 
-[![AEAC 2026](https://img.shields.io/badge/AEAC_2026-3rd_Place-F42E0B?style=flat-square)](https://valiantaerotech.com)
-[![Judges Award](https://img.shields.io/badge/Judges_Award-Winner-F42E0B?style=flat-square)](https://valiantaerotech.com)
-[![Valiant Aerotech](https://img.shields.io/badge/Team-Valiant_Aerotech-0a0a0a?style=flat-square&logo=github&logoColor=white)](https://github.com/Valiant-Aerotech)
-
 ---
 
 ### Spotlight
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+#### Meet Simple
+Private Windows meeting transcription and summaries. Whisper + optional Ollama, all on your PC — nothing uploaded.
+
+<img src="https://cdn.simpleicons.org/csharp/512BD4" height="18" alt="C#" />
+<img src="https://cdn.simpleicons.org/dotnet/512BD4" height="18" alt=".NET" />
+<img src="https://cdn.simpleicons.org/windows/0078D6" height="18" alt="Windows" />
+
+<br /><br />
+
+[![GitHub](https://img.shields.io/badge/GitHub-Meet--Simple-181717?style=for-the-badge&logo=github)](https://github.com/devanshhdalal/Meet-Simple)
+[![Releases](https://img.shields.io/badge/Releases-Download-F42E0B?style=for-the-badge)](https://github.com/devanshhdalal/Meet-Simple/releases)
+
+</td>
 <td width="50%" valign="top">
 
 #### Valiant Aerotech
@@ -49,21 +60,6 @@ Autonomous firefighting drone team. Flight electronics, telemetry, embedded firm
 [![Team site](https://img.shields.io/badge/valiantaerotech.com-F42E0B?style=for-the-badge)](https://valiantaerotech.com)
 
 </td>
-<td width="50%" valign="top">
-
-#### Valiant Logger
-Discord slash-command changelog with GitHub-backed persistence and a protected, searchable web portal.
-
-<img src="https://cdn.simpleicons.org/nodedotjs/339933" height="18" alt="Node.js" />
-<img src="https://cdn.simpleicons.org/discord/5865F2" height="18" alt="Discord" />
-<img src="https://cdn.simpleicons.org/redis/DC382D" height="18" alt="Redis" />
-<img src="https://cdn.simpleicons.org/github/ffffff" height="18" alt="GitHub" />
-
-<br /><br />
-
-[![Portfolio](https://img.shields.io/badge/See_more-devanshdalal.com-181717?style=for-the-badge)](https://www.devanshdalal.com)
-
-</td>
 </tr>
 </table>
 
@@ -75,6 +71,18 @@ Discord slash-command changelog with GitHub-backed persistence and a protected, 
 <tr>
 <td width="50%" valign="top">
 
+<img src="https://cdn.simpleicons.org/csharp/512BD4" height="24" alt="" />
+<br /><br />
+
+**<a href="https://github.com/devanshhdalal/Meet-Simple">Meet Simple</a>**<br />
+<sub>Local Windows app for meeting transcription and summaries — Whisper + Ollama, nothing leaves the machine</sub><br /><br />
+<img src="https://cdn.simpleicons.org/csharp/512BD4" height="16" alt="" />
+<img src="https://cdn.simpleicons.org/dotnet/512BD4" height="16" alt="" />
+<img src="https://cdn.simpleicons.org/windows/0078D6" height="16" alt="" />
+
+</td>
+<td width="50%" valign="top">
+
 <img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="24" alt="" />
 <br /><br />
 
@@ -84,6 +92,9 @@ Discord slash-command changelog with GitHub-backed persistence and a protected, 
 <img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="16" alt="" />
 
 </td>
+</tr>
+<tr><td colspan="2"><br /></td></tr>
+<tr>
 <td width="50%" valign="top">
 
 <img src="https://cdn.simpleicons.org/ros/22314E" height="24" alt="" />
@@ -96,9 +107,6 @@ Discord slash-command changelog with GitHub-backed persistence and a protected, 
 <img src="https://cdn.simpleicons.org/github/ffffff" height="16" alt="" />
 
 </td>
-</tr>
-<tr><td colspan="2"><br /></td></tr>
-<tr>
 <td width="50%" valign="top">
 
 <img src="https://cdn.simpleicons.org/discord/5865F2" height="24" alt="" />
@@ -111,6 +119,9 @@ Discord slash-command changelog with GitHub-backed persistence and a protected, 
 <img src="https://cdn.simpleicons.org/redis/DC382D" height="16" alt="" />
 
 </td>
+</tr>
+<tr><td colspan="2"><br /></td></tr>
+<tr>
 <td width="50%" valign="top">
 
 <img src="https://cdn.simpleicons.org/redis/DC382D" height="24" alt="" />
@@ -123,9 +134,6 @@ Discord slash-command changelog with GitHub-backed persistence and a protected, 
 <img src="https://cdn.simpleicons.org/redis/DC382D" height="16" alt="" />
 
 </td>
-</tr>
-<tr><td colspan="2"><br /></td></tr>
-<tr>
 <td width="50%" valign="top">
 
 <img src="https://cdn.simpleicons.org/espressif/E7352C" height="24" alt="" />
@@ -137,6 +145,9 @@ Discord slash-command changelog with GitHub-backed persistence and a protected, 
 <img src="https://cdn.simpleicons.org/homeassistant/18BCF2" height="16" alt="" />
 
 </td>
+</tr>
+<tr><td colspan="2"><br /></td></tr>
+<tr>
 <td width="50%" valign="top">
 
 <img src="https://cdn.simpleicons.org/discord/5865F2" height="24" alt="" />
@@ -148,6 +159,8 @@ Discord slash-command changelog with GitHub-backed persistence and a protected, 
 <img src="https://cdn.simpleicons.org/python/3776AB" height="16" alt="" />
 <img src="https://cdn.simpleicons.org/mongodb/47A248" height="16" alt="" />
 
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
@@ -163,6 +176,9 @@ Discord slash-command changelog with GitHub-backed persistence and a protected, 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
