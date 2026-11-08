@@ -75,7 +75,7 @@ Autonomous firefighting drone team. Flight electronics, telemetry, embedded firm
 <br /><br />
 
 **<a href="https://github.com/devanshhdalal/Meet-Simple">Meet Simple</a>**<br />
-<sub>Local Windows app for meeting transcription and summaries — Whisper + Ollama, nothing leaves the machine</sub><br /><br />
+<sub>Local Windows app for meeting transcription and summaries. It uses Whisper + Ollama, the data never leaves the local machine</sub><br /><br />
 <img src="https://cdn.simpleicons.org/csharp/512BD4" height="16" alt="" />
 <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="16" alt="" />
 <img src="https://cdn.simpleicons.org/windows/0078D6" height="16" alt="" />
